@@ -1,0 +1,10 @@
+C:\Code Project\Form_WebAPI\Form_WebAPI\bin\Debug\Form_WebAPI.exe.config
+C:\Code Project\Form_WebAPI\Form_WebAPI\bin\Debug\Form_WebAPI.exe
+C:\Code Project\Form_WebAPI\Form_WebAPI\bin\Debug\Form_WebAPI.pdb
+C:\Code Project\Form_WebAPI\Form_WebAPI\obj\Debug\Form_WebAPI.csproj.AssemblyReference.cache
+C:\Code Project\Form_WebAPI\Form_WebAPI\obj\Debug\Form_WebAPI.csproj.SuggestedBindingRedirects.cache
+C:\Code Project\Form_WebAPI\Form_WebAPI\obj\Debug\Form_WebAPI.Properties.Resources.resources
+C:\Code Project\Form_WebAPI\Form_WebAPI\obj\Debug\Form_WebAPI.csproj.GenerateResource.cache
+C:\Code Project\Form_WebAPI\Form_WebAPI\obj\Debug\Form_WebAPI.csproj.CoreCompileInputs.cache
+C:\Code Project\Form_WebAPI\Form_WebAPI\obj\Debug\Form_WebAPI.exe
+C:\Code Project\Form_WebAPI\Form_WebAPI\obj\Debug\Form_WebAPI.pdb
